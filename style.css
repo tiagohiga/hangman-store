@@ -62,4 +62,25 @@ h5{
     color: blue;
 }
 
+.botao-texto{
+    font-family: 'Cabin Sketch', sans-serif;
+    font-size: 1.2em;
+}
+
+.botao-secundario{
+    background-color: #666466;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+}
+
+.cor-modal{
+    color: rgb(43, 44, 44);
+}
 
